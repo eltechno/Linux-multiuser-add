@@ -3,7 +3,7 @@ Simple shell script that adds one or many users from a text file with 4 paramete
 
 myaddusers.sh is the main file, also includes the userlist with sample inputs, and a delete script to remove the users in the same list -- does not remove groups that were created however.
 
-##To use:
+# To use:
 
 Username:Password:Groupname:Full Name
 
